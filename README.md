@@ -1,5 +1,3 @@
-# homified
-Homified fashion landing page website
 <!DOCTYPE html>
 <html lang="en">
 <head>
